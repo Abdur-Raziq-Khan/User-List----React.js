@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+.card {
+  width: 18em;
+  margin: 10px;
+  border: 1px solid lightslategrey;
+}
+
+.users {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
